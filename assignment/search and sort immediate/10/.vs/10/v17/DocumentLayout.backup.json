@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\nam2\\DSA\\assignment\\search and sort immediate\\10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24364E3E-58F9-4340-AC70-16B0A392B63E}|10\\10.vcxproj|E:\\nam2\\DSA\\assignment\\search and sort immediate\\10\\10\\10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{24364E3E-58F9-4340-AC70-16B0A392B63E}|10\\10.vcxproj|solutionrelative:10\\10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1734,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "10.cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\assignment\\search and sort immediate\\10\\10\\10.cpp",
+              "RelativeDocumentMoniker": "10\\10.cpp",
+              "ToolTip": "E:\\nam2\\DSA\\assignment\\search and sort immediate\\10\\10\\10.cpp",
+              "RelativeToolTip": "10\\10.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-05T07:25:25.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

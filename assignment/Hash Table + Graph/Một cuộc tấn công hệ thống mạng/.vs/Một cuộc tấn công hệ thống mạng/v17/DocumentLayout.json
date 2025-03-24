@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\nam2\\DSA\\assignment\\Hash Table \u002B Graph\\M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54640CF2-7E2B-4414-A60A-1F6464EF4783}|M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng\\M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng.vcxproj|E:\\nam2\\DSA\\assignment\\Hash Table \u002B Graph\\M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng\\M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng\\M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54640CF2-7E2B-4414-A60A-1F6464EF4783}|M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng\\M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng.vcxproj|solutionrelative:M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng\\M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1786,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng.cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\assignment\\Hash Table \u002B Graph\\M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng\\M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng\\M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng.cpp",
+              "RelativeDocumentMoniker": "M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng\\M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng.cpp",
+              "ToolTip": "E:\\nam2\\DSA\\assignment\\Hash Table \u002B Graph\\M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng\\M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng\\M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng.cpp",
+              "RelativeToolTip": "M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng\\M\u1ED9t cu\u1ED9c t\u1EA5n c\u00F4ng h\u1EC7 th\u1ED1ng m\u1EA1ng.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T04:07:16.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

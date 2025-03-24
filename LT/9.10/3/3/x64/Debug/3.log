@@ -1,0 +1,27 @@
+﻿  3.cpp
+E:\nam2\DSA\LT\9.10\3\3\3.cpp(50,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\nam2\DSA\LT\9.10\3\3\3.cpp(50,7): error C2065: 'T': undeclared identifier
+E:\nam2\DSA\LT\9.10\3\3\3.cpp(51,8): error C2143: syntax error: missing ';' before '<<'
+E:\nam2\DSA\LT\9.10\3\3\3.cpp(51,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\nam2\DSA\LT\9.10\3\3\3.cpp(51,8): error C2059: syntax error: '<<'
+E:\nam2\DSA\LT\9.10\3\3\3.cpp(52,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\nam2\DSA\LT\9.10\3\3\3.cpp(52,3): error C2374: 'LNR': redefinition; multiple initialization
+  E:\nam2\DSA\LT\9.10\3\3\3.cpp(50,3):
+  see declaration of 'LNR'
+  
+E:\nam2\DSA\LT\9.10\3\3\3.cpp(52,7): error C2065: 'T': undeclared identifier
+E:\nam2\DSA\LT\9.10\3\3\3.cpp(53,2): error C2059: syntax error: '}'
+E:\nam2\DSA\LT\9.10\3\3\3.cpp(53,2): error C2143: syntax error: missing ';' before '}'
+E:\nam2\DSA\LT\9.10\3\3\3.cpp(54,1): error C2143: syntax error: missing ';' before '}'
+E:\nam2\DSA\LT\9.10\3\3\3.cpp(54,1): error C2059: syntax error: '}'
+E:\nam2\DSA\LT\9.10\3\3\3.cpp(56,1): error C2143: syntax error: missing ';' before '{'
+E:\nam2\DSA\LT\9.10\3\3\3.cpp(56,1): error C2447: '{': missing function header (old-style formal list?)
+E:\nam2\DSA\LT\9.10\3\3\3.cpp(83,2): error C3861: 'inputTree': identifier not found
+E:\nam2\DSA\LT\9.10\3\3\3.cpp(84,2): error C2872: 'cout': ambiguous symbol
+  E:\nam2\DSA\LT\9.10\3\3\3.cpp(51,3):
+  could be 'int cout'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\iostream(39,75):
+  or       'std::ostream std::cout'
+  
+E:\nam2\DSA\LT\9.10\3\3\3.cpp(84,15): warning C4804: '<<': unsafe use of type 'bool' in operation
+E:\nam2\DSA\LT\9.10\3\3\3.cpp(84,7): warning C4552: '<<': result of expression not used

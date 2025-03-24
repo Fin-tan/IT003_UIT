@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\nam2\\DSA\\ONTHI\\stackandqueue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\nam2\\DSA\\TH\\9.10\\5\\5\\5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6595244-DD7B-4C63-8846-BC41F6205EB3}|stackandqueue\\stackandqueue.vcxproj|E:\\nam2\\DSA\\ONTHI\\stackandqueue\\stackandqueue\\stackandqueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6595244-DD7B-4C63-8846-BC41F6205EB3}|stackandqueue\\stackandqueue.vcxproj|solutionrelative:stackandqueue\\stackandqueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1786,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stackandqueue.cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\ONTHI\\stackandqueue\\stackandqueue\\stackandqueue.cpp",
+              "RelativeDocumentMoniker": "stackandqueue\\stackandqueue.cpp",
+              "ToolTip": "E:\\nam2\\DSA\\ONTHI\\stackandqueue\\stackandqueue\\stackandqueue.cpp*",
+              "RelativeToolTip": "stackandqueue\\stackandqueue.cpp*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-01T08:05:53.264Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5.cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\TH\\9.10\\5\\5\\5.cpp",
+              "RelativeDocumentMoniker": "..\\..\\TH\\9.10\\5\\5\\5.cpp",
+              "ToolTip": "E:\\nam2\\DSA\\TH\\9.10\\5\\5\\5.cpp",
+              "RelativeToolTip": "..\\..\\TH\\9.10\\5\\5\\5.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-01T08:22:29.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

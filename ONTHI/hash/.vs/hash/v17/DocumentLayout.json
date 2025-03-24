@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\nam2\\DSA\\ONTHI\\hash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\nam2\\DSA\\LT\\HASH TABLE Beginner\\Create a hash table (using Linked List)\\Create a hash table (using Linked List)\\Create a hash table (using Linked List).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CAFF46-2FBB-4044-A970-7B3A1608F08A}|hash\\hash.vcxproj|E:\\nam2\\DSA\\ONTHI\\hash\\hash\\hash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53CAFF46-2FBB-4044-A970-7B3A1608F08A}|hash\\hash.vcxproj|solutionrelative:hash\\hash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1786,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create a hash table (using Linked List).cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\LT\\HASH TABLE Beginner\\Create a hash table (using Linked List)\\Create a hash table (using Linked List)\\Create a hash table (using Linked List).cpp",
+              "RelativeDocumentMoniker": "..\\..\\LT\\HASH TABLE Beginner\\Create a hash table (using Linked List)\\Create a hash table (using Linked List)\\Create a hash table (using Linked List).cpp",
+              "ToolTip": "E:\\nam2\\DSA\\LT\\HASH TABLE Beginner\\Create a hash table (using Linked List)\\Create a hash table (using Linked List)\\Create a hash table (using Linked List).cpp",
+              "RelativeToolTip": "..\\..\\LT\\HASH TABLE Beginner\\Create a hash table (using Linked List)\\Create a hash table (using Linked List)\\Create a hash table (using Linked List).cpp",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAUwJ8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T08:08:11.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hash.cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\ONTHI\\hash\\hash\\hash.cpp",
+              "RelativeDocumentMoniker": "hash\\hash.cpp",
+              "ToolTip": "E:\\nam2\\DSA\\ONTHI\\hash\\hash\\hash.cpp",
+              "RelativeToolTip": "hash\\hash.cpp",
+              "ViewState": "AQIAACkAAAAAAAAAAAAYwDoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T07:22:32.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

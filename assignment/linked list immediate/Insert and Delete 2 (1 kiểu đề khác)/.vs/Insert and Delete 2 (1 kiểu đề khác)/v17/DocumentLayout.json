@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\nam2\\DSA\\assignment\\linked list immediate\\Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6A5764-E01D-43EF-B691-EE34EF1499D1}|Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c)\\Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c).vcxproj|E:\\nam2\\DSA\\assignment\\linked list immediate\\Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c)\\Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c)\\Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC6A5764-E01D-43EF-B691-EE34EF1499D1}|Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c)\\Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c).vcxproj|solutionrelative:Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c)\\Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1734,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c).cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\assignment\\linked list immediate\\Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c)\\Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c)\\Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c).cpp",
+              "RelativeDocumentMoniker": "Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c)\\Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c).cpp",
+              "ToolTip": "E:\\nam2\\DSA\\assignment\\linked list immediate\\Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c)\\Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c)\\Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c).cpp",
+              "RelativeToolTip": "Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c)\\Insert and Delete 2 (1 ki\u1EC3u \u0111\u1EC1 kh\u00E1c).cpp",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T02:30:11.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

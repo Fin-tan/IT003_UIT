@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\nam2\\DSA\\assignment\\Hash Table \u002B Graph\\B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6972C890-CD9A-4594-BB8E-CEE9C5DEFB07}|B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop)\\B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop).vcxproj|E:\\nam2\\DSA\\assignment\\Hash Table \u002B Graph\\B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop)\\B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop)\\B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6972C890-CD9A-4594-BB8E-CEE9C5DEFB07}|B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop)\\B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop).vcxproj|solutionrelative:B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop)\\B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1786,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop).cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\assignment\\Hash Table \u002B Graph\\B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop)\\B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop)\\B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop).cpp",
+              "RelativeDocumentMoniker": "B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop)\\B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop).cpp",
+              "ToolTip": "E:\\nam2\\DSA\\assignment\\Hash Table \u002B Graph\\B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop)\\B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop)\\B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop).cpp",
+              "RelativeToolTip": "B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop)\\B\u0103m k\u00E9p - H\u00E0m Search (ver.no loop).cpp",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAtwHEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T20:07:36.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

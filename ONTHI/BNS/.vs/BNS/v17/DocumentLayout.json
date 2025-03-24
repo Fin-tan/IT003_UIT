@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\nam2\\DSA\\ONTHI\\BNS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{843370BB-C780-4F8F-8780-A8F214A96855}|BNS\\BNS.vcxproj|E:\\nam2\\DSA\\ONTHI\\BNS\\BNS\\BNS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{843370BB-C780-4F8F-8780-A8F214A96855}|BNS\\BNS.vcxproj|solutionrelative:BNS\\BNS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1786,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BNS.cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\ONTHI\\BNS\\BNS\\BNS.cpp",
+              "RelativeDocumentMoniker": "BNS\\BNS.cpp",
+              "ToolTip": "E:\\nam2\\DSA\\ONTHI\\BNS\\BNS\\BNS.cpp",
+              "RelativeToolTip": "BNS\\BNS.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-29T18:05:09.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  1.cpp
+E:\nam2\DSA\assignment\hw\1\1\1.cpp(30,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+E:\nam2\DSA\assignment\hw\1\1\1.cpp(39,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  1.vcxproj -> E:\nam2\DSA\assignment\hw\1\x64\Debug\1.exe

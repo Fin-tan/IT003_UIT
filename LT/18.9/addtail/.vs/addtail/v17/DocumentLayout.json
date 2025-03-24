@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\nam2\\DSA\\LT\\18.9\\addtail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7381B7-67D8-4F88-A29F-30616F24A838}|addtail\\addtail.vcxproj|E:\\nam2\\DSA\\LT\\18.9\\addtail\\addtail\\addafter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C7381B7-67D8-4F88-A29F-30616F24A838}|addtail\\addtail.vcxproj|solutionrelative:addtail\\addafter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7381B7-67D8-4F88-A29F-30616F24A838}|addtail\\addtail.vcxproj|E:\\nam2\\DSA\\LT\\18.9\\addtail\\addtail\\addtail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C7381B7-67D8-4F88-A29F-30616F24A838}|addtail\\addtail.vcxproj|solutionrelative:addtail\\addtail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 970,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 898,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "addtail.cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\LT\\18.9\\addtail\\addtail\\addtail.cpp",
+              "RelativeDocumentMoniker": "addtail\\addtail.cpp",
+              "ToolTip": "E:\\nam2\\DSA\\LT\\18.9\\addtail\\addtail\\addtail.cpp",
+              "RelativeToolTip": "addtail\\addtail.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T11:07:12.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "addafter.cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\LT\\18.9\\addtail\\addtail\\addafter.cpp",
+              "RelativeDocumentMoniker": "addtail\\addafter.cpp",
+              "ToolTip": "E:\\nam2\\DSA\\LT\\18.9\\addtail\\addtail\\addafter.cpp",
+              "RelativeToolTip": "addtail\\addafter.cpp",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwGYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T08:51:19.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

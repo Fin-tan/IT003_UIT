@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\nam2\\DSA\\ONTHI\\BST delete an elemant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{609E5BED-D7F7-4A3B-A439-AA215E9B38D7}|BST delete an elemant\\BST delete an elemant.vcxproj|E:\\nam2\\DSA\\ONTHI\\BST delete an elemant\\BST delete an elemant\\BST delete an elemant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{609E5BED-D7F7-4A3B-A439-AA215E9B38D7}|BST delete an elemant\\BST delete an elemant.vcxproj|solutionrelative:BST delete an elemant\\BST delete an elemant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\nam2\\DSA\\TH\\Binary Search Tree (Pre-Intermediate Cont\\Nodes with level k\\Nodes with level k\\Nodes with level k.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1786,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nodes with level k.cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\TH\\Binary Search Tree (Pre-Intermediate Cont\\Nodes with level k\\Nodes with level k\\Nodes with level k.cpp",
+              "RelativeDocumentMoniker": "..\\..\\TH\\Binary Search Tree (Pre-Intermediate Cont\\Nodes with level k\\Nodes with level k\\Nodes with level k.cpp",
+              "ToolTip": "E:\\nam2\\DSA\\TH\\Binary Search Tree (Pre-Intermediate Cont\\Nodes with level k\\Nodes with level k\\Nodes with level k.cpp",
+              "RelativeToolTip": "..\\..\\TH\\Binary Search Tree (Pre-Intermediate Cont\\Nodes with level k\\Nodes with level k\\Nodes with level k.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-31T11:24:18.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BST delete an elemant.cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\ONTHI\\BST delete an elemant\\BST delete an elemant\\BST delete an elemant.cpp",
+              "RelativeDocumentMoniker": "BST delete an elemant\\BST delete an elemant.cpp",
+              "ToolTip": "E:\\nam2\\DSA\\ONTHI\\BST delete an elemant\\BST delete an elemant\\BST delete an elemant.cpp",
+              "RelativeToolTip": "BST delete an elemant\\BST delete an elemant.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-31T10:20:19.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

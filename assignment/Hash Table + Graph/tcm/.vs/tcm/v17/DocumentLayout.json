@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\nam2\\DSA\\assignment\\Hash Table \u002B Graph\\tcm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED89DDF2-0713-41B6-91BF-BF6D02A6EBB1}|tcm\\tcm.vcxproj|E:\\nam2\\DSA\\assignment\\Hash Table \u002B Graph\\tcm\\tcm\\tcm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED89DDF2-0713-41B6-91BF-BF6D02A6EBB1}|tcm\\tcm.vcxproj|solutionrelative:tcm\\tcm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1786,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tcm.cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\assignment\\Hash Table \u002B Graph\\tcm\\tcm\\tcm.cpp",
+              "RelativeDocumentMoniker": "tcm\\tcm.cpp",
+              "ToolTip": "E:\\nam2\\DSA\\assignment\\Hash Table \u002B Graph\\tcm\\tcm\\tcm.cpp",
+              "RelativeToolTip": "tcm\\tcm.cpp",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-21T12:51:31.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

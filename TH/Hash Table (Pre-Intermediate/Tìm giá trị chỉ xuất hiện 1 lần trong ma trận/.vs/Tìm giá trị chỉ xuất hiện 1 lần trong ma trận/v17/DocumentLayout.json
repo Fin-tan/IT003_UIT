@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\nam2\\DSA\\TH\\Hash Table (Pre-Intermediate\\T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58350F96-C7EC-4320-8C90-D3C3F9629785}|T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn\\T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn.vcxproj|E:\\nam2\\DSA\\TH\\Hash Table (Pre-Intermediate\\T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn\\T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn\\T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58350F96-C7EC-4320-8C90-D3C3F9629785}|T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn\\T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn.vcxproj|solutionrelative:T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn\\T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1465,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 403,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn.cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\TH\\Hash Table (Pre-Intermediate\\T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn\\T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn\\T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn.cpp",
+              "RelativeDocumentMoniker": "T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn\\T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn.cpp",
+              "ToolTip": "E:\\nam2\\DSA\\TH\\Hash Table (Pre-Intermediate\\T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn\\T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn\\T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn.cpp",
+              "RelativeToolTip": "T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn\\T\u00ECm gi\u00E1 tr\u1ECB ch\u1EC9 xu\u1EA5t hi\u1EC7n 1 l\u1EA7n trong ma tr\u1EADn.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T02:01:14.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

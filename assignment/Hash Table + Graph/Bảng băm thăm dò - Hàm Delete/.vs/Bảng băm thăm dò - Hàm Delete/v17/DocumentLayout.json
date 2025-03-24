@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\nam2\\DSA\\assignment\\Hash Table \u002B Graph\\B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18C75F73-BB16-45EA-BBC0-CE67DBFEB128}|B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete\\B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete.vcxproj|E:\\nam2\\DSA\\assignment\\Hash Table \u002B Graph\\B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete\\B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete\\B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18C75F73-BB16-45EA-BBC0-CE67DBFEB128}|B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete\\B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete.vcxproj|solutionrelative:B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete\\B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1786,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete.cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\assignment\\Hash Table \u002B Graph\\B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete\\B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete\\B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete.cpp",
+              "RelativeDocumentMoniker": "B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete\\B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete.cpp",
+              "ToolTip": "E:\\nam2\\DSA\\assignment\\Hash Table \u002B Graph\\B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete\\B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete\\B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete.cpp",
+              "RelativeToolTip": "B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete\\B\u1EA3ng b\u0103m th\u0103m d\u00F2 - H\u00E0m Delete.cpp",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T18:13:04.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\nam2\\DSA\\homework\\dothi\\check valid cycle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79A24B98-B646-4FED-9784-830DE2CEFD8B}|check valid cycle\\check valid cycle.vcxproj|E:\\nam2\\DSA\\homework\\dothi\\check valid cycle\\check valid cycle\\check valid cycle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79A24B98-B646-4FED-9784-830DE2CEFD8B}|check valid cycle\\check valid cycle.vcxproj|solutionrelative:check valid cycle\\check valid cycle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1786,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "check valid cycle.cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\homework\\dothi\\check valid cycle\\check valid cycle\\check valid cycle.cpp",
+              "RelativeDocumentMoniker": "check valid cycle\\check valid cycle.cpp",
+              "ToolTip": "E:\\nam2\\DSA\\homework\\dothi\\check valid cycle\\check valid cycle\\check valid cycle.cpp",
+              "RelativeToolTip": "check valid cycle\\check valid cycle.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T05:58:44.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

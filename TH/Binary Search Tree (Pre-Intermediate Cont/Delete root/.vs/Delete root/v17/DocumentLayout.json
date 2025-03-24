@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\nam2\\DSA\\TH\\Binary Search Tree (Pre-Intermediate Cont\\Delete root\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{239D03C3-7B0D-44D6-A001-53CCFC54DDCD}|Delete root\\Delete root.vcxproj|E:\\nam2\\DSA\\TH\\Binary Search Tree (Pre-Intermediate Cont\\Delete root\\Delete root\\Delete root.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{239D03C3-7B0D-44D6-A001-53CCFC54DDCD}|Delete root\\Delete root.vcxproj|solutionrelative:Delete root\\Delete root.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 410,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1458,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete root.cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\TH\\Binary Search Tree (Pre-Intermediate Cont\\Delete root\\Delete root\\Delete root.cpp",
+              "RelativeDocumentMoniker": "Delete root\\Delete root.cpp",
+              "ToolTip": "E:\\nam2\\DSA\\TH\\Binary Search Tree (Pre-Intermediate Cont\\Delete root\\Delete root\\Delete root.cpp",
+              "RelativeToolTip": "Delete root\\Delete root.cpp",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAFMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T01:40:44.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

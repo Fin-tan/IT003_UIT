@@ -1,0 +1,7 @@
+﻿  addafter.cpp
+addtail.obj : error LNK2005: "void __cdecl addHead(struct List &,int &)" (?addHead@@YAXAEAUList@@AEAH@Z) already defined in addafter.obj
+addtail.obj : error LNK2005: "void __cdecl addTail(struct List &,int &)" (?addTail@@YAXAEAUList@@AEAH@Z) already defined in addafter.obj
+addtail.obj : error LNK2005: "struct node * __cdecl getNode(int)" (?getNode@@YAPEAUnode@@H@Z) already defined in addafter.obj
+addtail.obj : error LNK2005: "void __cdecl printlist(struct List &)" (?printlist@@YAXAEAUList@@@Z) already defined in addafter.obj
+addtail.obj : error LNK2005: main already defined in addafter.obj
+E:\nam2\DSA\LT\18.9\addtail\x64\Debug\addtail.exe : fatal error LNK1169: one or more multiply defined symbols found

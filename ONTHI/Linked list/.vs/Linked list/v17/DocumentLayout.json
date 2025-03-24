@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\nam2\\DSA\\ONTHI\\Linked list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{415460EF-72D8-4DF7-A1AD-FFAB84CB2086}|Linked list\\Linked list.vcxproj|E:\\nam2\\DSA\\ONTHI\\Linked list\\Linked list\\Linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{415460EF-72D8-4DF7-A1AD-FFAB84CB2086}|Linked list\\Linked list.vcxproj|solutionrelative:Linked list\\Linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1786,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Linked list.cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\ONTHI\\Linked list\\Linked list\\Linked list.cpp",
+              "RelativeDocumentMoniker": "Linked list\\Linked list.cpp",
+              "ToolTip": "E:\\nam2\\DSA\\ONTHI\\Linked list\\Linked list\\Linked list.cpp",
+              "RelativeToolTip": "Linked list\\Linked list.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-30T01:38:59.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

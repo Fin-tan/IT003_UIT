@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\nam2\\DSA\\TH\\9.10\\7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\nam2\\DSA\\template (1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\nam2\\DSA\\template (2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{946B21CE-F19D-4A07-91BA-4E254E0DA4AE}|7\\7.vcxproj|E:\\nam2\\DSA\\TH\\9.10\\7\\7\\7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{946B21CE-F19D-4A07-91BA-4E254E0DA4AE}|7\\7.vcxproj|solutionrelative:7\\7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1734,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "template (1).cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\template (1).cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\template (1).cpp",
+              "ToolTip": "E:\\nam2\\DSA\\template (1).cpp",
+              "RelativeToolTip": "..\\..\\..\\template (1).cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T03:22:52.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "template (2).cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\template (2).cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\template (2).cpp",
+              "ToolTip": "E:\\nam2\\DSA\\template (2).cpp",
+              "RelativeToolTip": "..\\..\\..\\template (2).cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T03:22:48.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "7.cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\TH\\9.10\\7\\7\\7.cpp",
+              "RelativeDocumentMoniker": "7\\7.cpp",
+              "ToolTip": "E:\\nam2\\DSA\\TH\\9.10\\7\\7\\7.cpp",
+              "RelativeToolTip": "7\\7.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T03:09:56.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

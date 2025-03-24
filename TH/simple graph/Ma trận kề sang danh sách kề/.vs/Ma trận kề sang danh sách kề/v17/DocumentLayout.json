@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\nam2\\DSA\\TH\\simple graph\\Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12ABEA94-ADC7-453F-8169-12941F080E75}|Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1\\Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1.vcxproj|E:\\nam2\\DSA\\TH\\simple graph\\Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1\\Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1\\Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12ABEA94-ADC7-453F-8169-12941F080E75}|Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1\\Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1.vcxproj|solutionrelative:Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1\\Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1786,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1.cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\TH\\simple graph\\Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1\\Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1\\Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1.cpp",
+              "RelativeDocumentMoniker": "Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1\\Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1.cpp",
+              "ToolTip": "E:\\nam2\\DSA\\TH\\simple graph\\Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1\\Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1\\Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1.cpp",
+              "RelativeToolTip": "Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1\\Ma tr\u1EADn k\u1EC1 sang danh s\u00E1ch k\u1EC1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T01:35:19.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

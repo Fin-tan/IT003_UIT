@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\nam2\\DSA\\assignment\\Hash Table \u002B Graph\\B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9DDE83-A12D-45ED-9C1A-B8CBF69F5446}|B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete\\B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete.vcxproj|E:\\nam2\\DSA\\assignment\\Hash Table \u002B Graph\\B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete\\B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete\\B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE9DDE83-A12D-45ED-9C1A-B8CBF69F5446}|B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete\\B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete.vcxproj|solutionrelative:B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete\\B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1786,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete.cpp",
+              "DocumentMoniker": "E:\\nam2\\DSA\\assignment\\Hash Table \u002B Graph\\B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete\\B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete\\B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete.cpp",
+              "RelativeDocumentMoniker": "B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete\\B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete.cpp",
+              "ToolTip": "E:\\nam2\\DSA\\assignment\\Hash Table \u002B Graph\\B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete\\B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete\\B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete.cpp",
+              "RelativeToolTip": "B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete\\B\u1EA3ng b\u0103m n\u1ED1i k\u1EBFt - H\u00E0m Delete.cpp",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAkwKUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T17:55:03.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

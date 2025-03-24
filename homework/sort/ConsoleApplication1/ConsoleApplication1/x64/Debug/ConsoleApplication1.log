@@ -1,0 +1,15 @@
+﻿  ConsoleApplication1.cpp
+E:\nam2\DSA\homework\sort\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(18,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\nam2\DSA\homework\sort\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(31,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\nam2\DSA\homework\sort\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(42,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\nam2\DSA\homework\sort\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(125,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\nam2\DSA\homework\sort\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(137,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\nam2\DSA\homework\sort\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(150,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\nam2\DSA\homework\sort\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(173,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\nam2\DSA\homework\sort\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(213,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\nam2\DSA\homework\sort\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(223,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\nam2\DSA\homework\sort\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(253,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\nam2\DSA\homework\sort\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(286,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\nam2\DSA\homework\sort\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(371,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\nam2\DSA\homework\sort\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(374,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> E:\nam2\DSA\homework\sort\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
